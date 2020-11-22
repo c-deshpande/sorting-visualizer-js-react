@@ -1,6 +1,6 @@
 # React Sorting Algoritm Visualizer
 
-A React app visualizing differnt sorting algorithms. Live demo can be found [Here](https://sorting-visualizer-js-react.herokuapp.com/).
+A React app visualizing different sorting algorithms. Live demo can be found [Here](https://sorting-visualizer-js-react.herokuapp.com/).
 
 Vanilla Java implementation of the algorithms can be found [Here](https://github.com/c-deshpande/sorting-algorithm-analysis).
 
