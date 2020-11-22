@@ -1,3 +1,32 @@
+# React Sorting Algoritm Visualizer
+
+A React app visualizing differnt sorting algorithms. Live demo can be found [Here](https://c-deshpande.github.io/sorting-visualizer-react-js/).
+
+Vanilla Java implementation of the algorithms can be found [Here](https://github.com/c-deshpande/sorting-algorithm-analysis).
+
+The algorithms covered are as follows,  
+- Merge Sort  
+- Heap Sort  
+- Quick Sort
+- Quick Sort (Using 3 median method)  
+- Insertion Sort  
+- Bubble Sort 
+
+Each of these algorithm's worst case time complexities are as follows,  
+
+| Algorithm  | Worst Case Time Complexity |
+| ------------- | ------------- |
+| Merge Sort  | O(n log(n))  |
+| Heap Sort  | O(n log(n))  |
+| Quick Sort  | O(n^2)  |
+| Insertion Sort  | O(n^2)  |
+| Bubble Sort  | O(n^2) |
+
+Algorithm runtimes with respect to array size with n random numbers,  
+
+![Efficiency Graph](https://github.com/c-deshpande/sorting-algorithm-analysis/blob/master/images/efficiency_graph.png)  
+*The time is in nano seconds*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
